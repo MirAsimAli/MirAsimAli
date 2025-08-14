@@ -3,7 +3,6 @@
 🎓 **Computer Science Graduate**  
 💻 **AI, ML, and Data Enthusiast**  
 📍 Hyderabad, India  
-mirasimali.github.io/portfolio_website/
 I build projects that combine **Machine Learning**, **Computer Vision**, **Natural Language Processing**, and **Data Engineering** to create meaningful, real-world solutions.  
 Always learning. Always building. 🚀
 
