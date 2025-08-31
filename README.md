@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Asim  
+# 👋 Hey, I'm Mir Asim Ali
 
 🎓 **Computer Science Graduate**  
 💻 **AI, ML, and Data Enthusiast**  
